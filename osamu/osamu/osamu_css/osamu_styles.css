@@ -1,0 +1,42 @@
+#videos {
+	display: grid;
+	grid-template:   1fr 1fr / 1fr 1fr 1fr 1fr 1fr;
+	padding: 10px;
+	
+}
+
+#videos > div {
+	padding: 10px;
+	border: 3px solid black;
+}
+
+img {
+    max-width: 100%;
+    width: 110%;
+	height: 50%;
+}
+
+h1 {
+	
+	width: 1980px;
+	height: 150px;
+	background-color: blue;
+	padding: 10px 50px;
+	color:white;
+	text-align:center;
+}
+
+.chirina{
+    width: 1800px;
+	margin: 0 auto;
+}
+
+p{
+    width: 1980px;
+	height: 150px;
+	background-color: blue;
+	padding: 10px 50px;	
+	color:white;
+	text-align:center;
+	font-size: 45px;
+}
